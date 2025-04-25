@@ -1,2 +1,2 @@
 # HyperBoot
-A tiny bootloader do my OS
+A tiny bootloader for my OS
